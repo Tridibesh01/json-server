@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "fd4bef7f-7fd6-4d32-bba5-a7ad30862bbe",
+      "name": "Tapan",
+      "email": "tapanbikash1999@gmail.com"
+    },
+    {
+      "id": "7c2a5914-df11-4ac1-a7ce-410b3a06b2c3",
+      "name": "Tridibesh ",
+      "email": "abcd@gmail.com"
+    },
+    {
+      "id": "d6a4be6f-bd1a-4bcd-b2ae-ffd270bafae8",
+      "name": "Jangyaseni ",
+      "email": "jangyaseninaik1975@gmail.com"
+    }
+  ]
+}
